@@ -1,2 +1,3 @@
 # hello-world
 Hey it's me Andi hello there...........
+I'm pursuing my B. Tech in Information Technology and I'm interested in computers , programming , operating systems etc.
